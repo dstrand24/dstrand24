@@ -1,0 +1,129 @@
+/****************************TAGS*****************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 5.625rem;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  color: black;
+  padding-top: 60px;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: black;
+  margin-top: 10px;
+  padding-top: 6rem;
+}
+
+h3 {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+/***************************CLASSES******************/
+.top-container {
+  background-color: #66BFBF;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #ededed;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #11999E;
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+  margin-top: 1rem;
+}
+
+.contact-me {
+  line-height: 25px;
+}
+
+.cloud {
+  position: absolute;
+  bottom: 245px;
+  right: 550px;
+}
+
+.mountain {
+  position: relative;
+  top: 6px;
+}
+
+.plane {
+  position: relative;
+  height: 4rem;
+  bottom: 290px;
+  left: -20px;
+}
+
+.footer-link {
+  margin: 1rem;
+  text-decoration: none;
+  color: #11999E;
+}
+
+.footer {
+  color: #EAF6F6;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillone {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skilltwo {
+  width: 24%;
+  margin-left: 30px;
+  float: right;
+}
+
+.profile {
+  margin-bottom: 2rem;
+}
+
+.skillsh2 {}
+
+.p1 {
+  padding: 1em;
+}
+
+.thailand {
+  height: 290px;
+  padding-top: 6rem;
+}
+
+.mlv {
+  width: 100%;
+}
